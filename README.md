@@ -8,3 +8,5 @@ Galeri,
 Blog,
 İletişim 
 Sayfaları ile admin panelinden içerikleri yönetilebilir bir projedir.
+
+![Logo](https://kaymakdev.com.tr/assets/portfolio/bungalov.png)
